@@ -3,11 +3,11 @@ title: Introduction
 description: 'Introduction Post'
 ---
 
+Introduction to the setup and resources needed.
+<!--more-->
 ### Setup
 
 Include steps of all necessary steps to get the software to run (for example, installations). Include the commands to run if necessary.
-
-<!--more-->
 
 - All I have to do is be where I can run sqlmap. So I have to cd to the directory and then type `python3 sqlmap.py` and it runs. As a note, make sure the user has Python somewhere on their machine.
 
