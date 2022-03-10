@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://lex-research-notebook.netlify.app/'
 languageCode = 'en-us'
 title = 'My Research Notebook'
 theme = 'personal-web'
