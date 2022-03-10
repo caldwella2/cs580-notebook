@@ -5,6 +5,8 @@ images: ["/images/sample.jpg"]
 ---
 
 
-This is my about research. :wave:
+This is my about research.
 
-I want to explore and navigate the vulnerability of databases. I am basing this research off a branch of cyber security and I will be specifically looking at SQL Injection attacks. 
+I want to explore and navigate the vulnerability of databases. I am basing this research off a branch of cyber security and I will be specifically looking at SQL Injection attacks.
+
+[Research Posts](/post "Research Posts")
